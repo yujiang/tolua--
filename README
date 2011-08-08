@@ -1,0 +1,2 @@
+vs2010 project file for tolua++
+and also modify include\tolua++.h to export dll
